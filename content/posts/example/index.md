@@ -1,7 +1,7 @@
 +++
 title = "Example Post"
 date = "2022-10-24"
-draft = true
+draft = false
 pinned = false
 tags = ["Example", "Lernblog"]
 image = "/img/default-image.jpg"
