@@ -1,7 +1,7 @@
 +++
 title = "Ein Blick hinter die Kulissen von „souvy“"
 date = "2022-12-02"
-draft = false
+draft = true
 pinned = false
 image = "souvy-3.jpg"
 +++
@@ -13,8 +13,6 @@ Moritz und Elias lernen während dem Fotoshooting für die neue website das star
 
 Am Montagmorgen, 05.09.2022 machen wir uns gegen 08.30 Uhr auf, um bei einem Fotoshooting der Digitalagentur naa. für das start-up Unternehmen souvy dabei zu sein. Die Resultate des Fotoshootings werden anschließend für die neue Website von souvy verwendet. Wir sind sehr gespannt auf den bevorstehenden Morgen, denn Unternehmen wie souvy, die Lösungen zum Problem von Foodwaste und der Umweltverschmutzung gefunden haben, interessieren uns sehr
 
-
-
 **Unterkapitel 1: Content creation mit der Digitalagentur naa.**
 
 Wir treffen um 09:00 Uhr in den Geschäftsräumen von souvy, am Randweg 5a in Bern, ein. Die beiden Fotografinnen Fabienne und Julia von der jungen Digitalagentur naa. sind ebenfalls vor Ort. Sie wurden von Angela und Silas von souvy beauftragt, den neuen digitalen Auftritt zu gestalten. Nach einem ersten gegenseitigen Kennenlernen wird gemeinsam festgelegt, welche Art von Bildern für die Website gebraucht werden. Die Stimmung ist locker und entspannt und dennoch seriös und professionell. Für Angela und Silas ist es wichtig, dass ihr „intelligenter Kühlschrank“ gezeigt wird, dass man sieht, wie jemand den Kühlschrank bedient und wie ihre Menüs und Snacks aussehen. Die Vielfalt der Auswahl soll sichtbar werden. Die Bilder sollen simpel sein und nicht zu viel Verschiedenes zeigen.\
@@ -22,3 +20,11 @@ Um 09:30 Uhr beginnen die beiden Fotografinnen mit ihrer Arbeit. Wir können beo
 Während die Fotografinnen weiterarbeiten, machen wir uns auf, zusammen mit Angela und Silas hinter die Kulissen von souvy zu schauen.
 
 ![Nach einer Stunde Shooting, erste Besprechung der Ergebnisse. (aufgenommen von Moritz Streit)](souvy-1.jpg)
+
+{{<box title="Ausklappbare Box">}}
+
+Das Unternehmen naa.
+
+naa. ist eine junge Digitalagentur, welche von den zwei jungen Frauen Fabienne und Julia geführt wird. Sie realisieren multimediale Aufträge für Unternehmen jeglicher Grösse. Sie beraten und unterstützen bedürfnisorientiert, zielführend und unkompliziert. Dabei liegt ihnen ein offener Austausch auf Augenhöhe am Herzen. Ihr Auftritt ist persönlich, kreativ und sie zeigen viel Liebe fürs Detail und für einen gelungenen digitalen Auftritt. Sie bezeichnen sich selbst als „digitale Natives“ und kennen die Bedürfnisse der Generation von morgen bestens.
+
+{{</box>}}
