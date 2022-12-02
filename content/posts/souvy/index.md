@@ -4,6 +4,7 @@ date = "2022-12-02"
 draft = false
 pinned = false
 image = "souvy-3.jpg"
+footnotes = "Autoren: Eine Reportage von Moritz Streit und Elias Schneeberger, zwei Schüler des Gymnasiums Kirchenfeld."
 +++
 `{{</lead>}}`
 
