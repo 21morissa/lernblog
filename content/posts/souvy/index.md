@@ -83,3 +83,12 @@ Das einzige kleinere Problem, das souvy bis heute mit dieser Technologie hat, si
 Trotz einigen Problemen in der start-up Phase ist Angela mit der aktuellen Situation ihres Unternehmens sehr zufrieden und freut sich auf die Ergebnisse der naa. Fotografinnen.
 
 ![Einblick in den frisch aufgefüllten, intelligenten Kühlschrank. (aufgenommen von Moritz Streit)](souvy-4.jpg)
+
+
+
+**Unterkapitel 6: Finish beim Fotoshooting – ein weiterer Meilenstein für souvy**
+
+Während Elias und Silas zurück von ihrer Nachfülltour beim Kunden sind, kommen auch Angela und Moritz von ihrer Lagerbesichtigung zurück zum Fotoshooting. Die beiden Fotografinnen Fabienne und Julia waren fleissig. Kurz vor elf Uhr beginnt die zweite gemeinsame Besprechung, um die gemachten Fotos anzuschauen. Angela und Silas sind sehr zufrieden. Dank professioneller Fotos, die beispielsweise eine haltende Hand im Bild zeigen, wirken die neuen Bilder natürlicher und lebendiger als die alten. Trotzdem haben Angela und Silas noch ein paar weitere Fotowünsche. Ein Sujet soll den ganzen Kühlschrank mit allen Produkten zeigen und ein weiteres das frisch zubereitete Essen. Also fängt Silas mit der Zubereitung eines Essens an und das Fotoshooting geht weiter.\
+Um Viertel nach zwölf findet die Endbesprechung statt. Der Content für die neue Website steht und ein weiterer Meilenstein zur Professionalisierung des start-up‘s souvy ist erreicht. Die zwei Co-Founder Angela und Silas sind zufrieden mit dem Ergebnis und blicken gemeinsam mit den Fotografinnen Fabienne und Julia von naa. und uns auf einen spannenden, erfolgreichen Montagmorgen zurück.
+
+![Vorher-nachher Vergleich der Website von souvy (zusammengestellt von Angela Hulliger)](souvy5-k.png)
