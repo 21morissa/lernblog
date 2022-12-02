@@ -67,3 +67,19 @@ Angela ergänzt, dass es auch noch ein anderes System gibt, das weiteren Foodwas
 Dank der einzigartigen Kochmethode, dem System der Menürotation zwischen den Kunden und einer nachfragebasierten Produktion hebt sich souvy von der Konkurrenz ab. Angela meint stolz *„Wir sehen zu jeder Zeit unsere Livebestände und können anhand unserer Lagerbestände und der Nachfrage der letzten Wochen unsere Produktionsentscheidungen treffen“.* souvy übertrifft den Marktleader Felfel (dem heute grössten, mit souvy vergleichbaren Anbieter von Mitarbeiterverpflegung in der Schweiz) bereits heute in Bezug auf geschmackvolles Essen und die Verhinderung von Foodwaste. Allerdings verfügt Felfel über eine bessere Organisation (z.B. bessere Benutzerfreundlichkeit der intelligenten Kühlschränke) und mehr Erfahrung, da sie schon länger im Geschäft sind.
 
 ![Frische Food Präparation für Fotos der eigenen Gerichte. (aufgenommen von Moritz Streit)](souvy-2.jpg)
+
+
+
+**Unterkapitel 5: Der intelligente Kühlschrank**
+
+Nachdem wir das Spezielle am Kochvorgang verstanden haben, erklärt uns Angela die vielen interessanten Einzelheiten des intelligenten Kühlschrankes und dessen Funktionen: *„Unsere intelligenten Kühlschränke funktionieren vollautomatisch“.*
+
+Und so funktioniert der intelligente Kühlschrank von souvy: Der vollautomatische Kühlschrank liest die Bestände mithilfe der sogenannten RFID-Technologie. Sensoren lesen die Informationen der mit Dezibel gekennzeichneten Chipaufkleber, welche an den Menüs befestigt sind. Dank diesen Informationen kennt der Kühlschrank seine eigenen Bestände und kalkuliert dann die Abrechnungsdaten für den Endkunden. Nach jedem Öffnen und Schliessen der Kühlschranktüre wird die Abrechnung automatisch vorgenommen.  
+
+Ein Beispiel dazu: Der Kühlschrank liest, dass zehn Produkte bei geschlossener Türe vorhanden sind. Wenn der Kunde dann die Türe öffnet, ein Produkt herausnimmt und die Türe wieder schließt, scannt der Kühlschrank erneut. Er erfasst dann aber nur noch neun Produkte und verrechnet das fehlende Produkt direkt dem Kunden*. „Der Kühlschrank scannt jedes Mal und verrechnet das fehlende Produkt“.* Danach hat der Kunde zwei Zahlungsmöglichkeiten. Er kann entweder mit der App bezahlen, bei der eine Kreditkarte hinterlegt werden muss oder er zahlt direkt am Kartenterminal. Falls der Kunde am Kartenterminal bezahlt, wird zuerst ein Depot von 20 Franken für die Authentifizierung abgebucht. So bald gewährleistet ist, dass eine genug hohe Kreditlimite vorhanden ist, öffnet sich der Kühlschrank und der Kunde kann sich bedienen.
+
+Das einzige kleinere Problem, das souvy bis heute mit dieser Technologie hat, sind Aludosen. Aluminium blockiert das Elektromagnetische Signal, welches von den RFID-Tags ausgeht. Deshalb sind keine Aludosen im Angebot.
+
+Trotz einigen Problemen in der start-up Phase ist Angela mit der aktuellen Situation ihres Unternehmens sehr zufrieden und freut sich auf die Ergebnisse der naa. Fotografinnen.
+
+![Einblick in den frisch aufgefüllten, intelligenten Kühlschrank. (aufgenommen von Moritz Streit)](souvy-4.jpg)
