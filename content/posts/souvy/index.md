@@ -21,4 +21,4 @@ Wir treffen um 09:00 Uhr in den Geschäftsräumen von souvy, am Randweg 5a in Be
 Um 09:30 Uhr beginnen die beiden Fotografinnen mit ihrer Arbeit. Wir können beobachten, wie sie konzentriert unterschiedlichste Sujets und Kamerawinkel ausprobieren. Sie sprechen sich untereinander ab, stellen Menüs um und komponieren mit viel Liebe zum Detail neue Einstellungen.\
 Während die Fotografinnen weiterarbeiten, machen wir uns auf, zusammen mit Angela und Silas hinter die Kulissen von souvy zu schauen.
 
-![](souvy-1.jpg)
+![Nach einer Stunde Shooting, erste Besprechung der Ergebnisse. (aufgenommen von Moritz Streit)](souvy-1.jpg)
