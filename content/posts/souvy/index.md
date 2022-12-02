@@ -5,8 +5,6 @@ draft = false
 pinned = false
 image = "souvy-3.jpg"
 +++
-<!--StartFragment-->
-
 {{<lead>}}
 
 Moritz und Elias lernen während dem Fotoshooting für die neue website das start-up **„**souvy**“** von Angela Hulliger und Silas Bohren kennen. Nachhaltige Verpflegung am Arbeitsplatz aus einer anderen Perspektive.
