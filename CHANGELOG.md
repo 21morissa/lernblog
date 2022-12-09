@@ -1,5 +1,31 @@
 # Changelog
 
+## Version 3.0.1 (2022-12-08)
+
+- Admin: Remove email from author settings. Add link to author page. 
+- ATOM feed:
+  - Remove author email
+  - Add avatar (profile image)
+  - Add link to author page.
+  - Use favicon as feed icon.
+
+## Version 3.0.0 (2022-12-03)
+
+- Rebranding: Rename Lernblog to Lilo.Blog and change Domain to lilo.blog.
+
+## Version 2.0.5 (2022-11-17)
+
+- Format config.toml.
+
+## Version 2.0.4 (2022-11-07)
+
+- Fix navigation autohide bug: In Safari the scroll position at the top was not correctly dectected because of the 
+  browsers bounce effect. This caused the navigation to be hidden when it should not be hidden.
+
+## Version 2.0.3 (2022-11-05)
+
+- Fix first heading in box (alert, accordion) having a large top margin.
+
 ## Version 2.0.2 (2022-11-03)
 
 - 💛 Use yellow heart in footer. Just because.
