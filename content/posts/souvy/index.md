@@ -9,7 +9,7 @@ footnotes = "Autoren: Eine Reportage von Moritz Streit und Elias Schneeberger, z
 +++
 `{{</lead>}}`
 
-Moritz und Elias lernen während dem Fotoshooting für die neue website das start-up **„**souvy**“** von Angela Hulliger und Silas Bohren kennen. Nachhaltige Verpflegung am Arbeitsplatz aus einer anderen Perspektive. *Eine Reportage von Moritz Streit und Elias Schneeberger*
+Moritz und Elias lernen während dem Fotoshooting für die neue website das start-up **„**souvy**“** von Angela Hulliger und Silas Bohren kennen. Nachhaltige Verpflegung am Arbeitsplatz aus einer anderen Perspektive.                    *Eine Reportage von Moritz Streit und Elias Schneeberger*
 
 `{{</lead>}}`
 
